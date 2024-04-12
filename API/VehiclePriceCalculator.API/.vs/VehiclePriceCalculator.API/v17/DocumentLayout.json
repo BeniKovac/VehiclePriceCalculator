@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|c:\\users\\benjamin kova\u010D keber\\desktop\\benjamin\\vehiclepricecalculator\\api\\vehiclepricecalculator.api\\vehiclepricecalculator.api\\controllers\\vehiclepricecalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|solutionrelative:vehiclepricecalculator.api\\controllers\\vehiclepricecalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|c:\\users\\benjamin kova\u010D keber\\desktop\\benjamin\\vehiclepricecalculator\\api\\vehiclepricecalculator.api\\vehiclepricecalculator.api\\dto\\vehiclepricecalculatorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|solutionrelative:vehiclepricecalculator.api\\dto\\vehiclepricecalculatorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|c:\\users\\benjamin kova\u010D keber\\desktop\\benjamin\\vehiclepricecalculator\\api\\vehiclepricecalculator.api\\vehiclepricecalculator.api\\services\\vehiclepricecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|solutionrelative:vehiclepricecalculator.api\\services\\vehiclepricecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|c:\\users\\benjamin kova\u010D keber\\desktop\\benjamin\\vehiclepricecalculator\\api\\vehiclepricecalculator.api\\vehiclepricecalculator.api\\dto\\vehiclepricecalculatorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CBC70D-2233-42E8-83D9-4AFA371C5632}|VehiclePriceCalculator.API\\VehiclePriceCalculator.API.csproj|solutionrelative:vehiclepricecalculator.api\\dto\\vehiclepricecalculatorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiclePriceCalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\Controllers\\VehiclePriceCalculatorController.cs",
+              "RelativeDocumentMoniker": "VehiclePriceCalculator.API\\Controllers\\VehiclePriceCalculatorController.cs",
+              "ToolTip": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\Controllers\\VehiclePriceCalculatorController.cs",
+              "RelativeToolTip": "VehiclePriceCalculator.API\\Controllers\\VehiclePriceCalculatorController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:18:48.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclePriceCalculatorRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorRequestDto.cs",
+              "RelativeDocumentMoniker": "VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorRequestDto.cs",
+              "ToolTip": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorRequestDto.cs",
+              "RelativeToolTip": "VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:24:52.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiclePriceCalculatorResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorResponseDto.cs",
+              "RelativeDocumentMoniker": "VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorResponseDto.cs",
+              "ToolTip": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorResponseDto.cs",
+              "RelativeToolTip": "VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:13:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiclePriceCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\Services\\VehiclePriceCalculatorService.cs",
+              "RelativeDocumentMoniker": "VehiclePriceCalculator.API\\Services\\VehiclePriceCalculatorService.cs",
+              "ToolTip": "C:\\Users\\Benjamin Kova\u010D Keber\\Desktop\\Benjamin\\VehiclePriceCalculator\\API\\VehiclePriceCalculator.API\\VehiclePriceCalculator.API\\Services\\VehiclePriceCalculatorService.cs",
+              "RelativeToolTip": "VehiclePriceCalculator.API\\Services\\VehiclePriceCalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:14:02.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
