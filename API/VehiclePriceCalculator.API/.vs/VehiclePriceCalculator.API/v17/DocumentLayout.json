@@ -51,8 +51,7 @@
               "RelativeToolTip": "VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:24:52.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T17:24:52.503Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "VehiclePriceCalculator.API\\DTO\\VehiclePriceCalculatorResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T18:13:45.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T18:13:45.821Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "VehiclePriceCalculator.API\\Services\\VehiclePriceCalculatorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:14:02.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T19:14:02.149Z"
             }
           ]
         }

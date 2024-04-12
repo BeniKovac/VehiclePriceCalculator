@@ -1,0 +1,13 @@
+input[type=radio] {
+    transform: scale(1.5);
+}
+
+input[type=number] {
+    padding-left: 5%;
+}
+
+
+input:disabled {
+    background-color: #B0B0B0;
+    opacity: 1;
+  }
